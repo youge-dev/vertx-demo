@@ -1,2 +1,2 @@
-# vertx_learn
+# vertx
 vertx learning
